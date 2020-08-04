@@ -1,3 +1,3 @@
 # pratica-prof
-# digite seu nome aqui!
+# Digite seu nome aqui!
 Repo Prática Profissional
